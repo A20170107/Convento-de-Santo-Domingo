@@ -1,0 +1,40 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  background-color: #fde1a5;
+}
+div{
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  margin: 30px;
+}
+.Imagen img{
+  height: 300px;
+}
+.Titulo h1{
+  color: #542727;
+  font-size: 50px;
+  text-align: center;
+  font-family:'Buxton Sketch';
+
+}
+
+.subtitulo p{
+  color: #542727;
+  font-size: 40px;
+  text-align: center;
+  font-family:'Buxton Sketch';
+}
+.descripcion p{
+  color: #542727;
+  font-size: 20px;
+  font-family:'Buxton Sketch';
+  
+}
+.descripcion img{
+  height: 300px;
+}
